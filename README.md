@@ -1,3 +1,3 @@
 # ERP REPORT
-TH TRUE MILK COMPANY'S SUPPLY CHAIN PROCESS\
-Technology used: Odoo
+Research paper on supply chain process of TH True Milk company\
+Technical: Odoo
