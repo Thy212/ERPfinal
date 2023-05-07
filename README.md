@@ -1,3 +1,3 @@
 # ERP REPORT
-Research paper on supply chain process of TH True Milk company\
+Research the supply chain process of the TH True Milk Company and illustrate it using Odoo.\
 Technical: Odoo
